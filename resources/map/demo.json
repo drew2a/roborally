@@ -1,0 +1,583 @@
+{
+  "mapName": "demo",
+  "cols": 12,
+  "rows": 12,
+  "players": [
+    {
+      "type": "human",
+      "cell": {
+        "type": "player",
+        "x": 3,
+        "y": 7
+      }
+    },
+    {
+      "type": "bot",
+      "cell": {
+        "type": "player",
+        "x": 4,
+        "y": 7
+      }
+    }
+  ],
+  "cells": [
+    {
+      "type": "turner",
+      "CW": true
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "laser",
+      "direction": "left"
+    },
+    {
+      "type": "laser",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": true
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "laser",
+      "direction": "left"
+    },
+    {
+      "type": "laser",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "obstacle",
+      "directions": [
+        "left",
+        "right",
+        "up",
+        "down"
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "transporter",
+      "direction": "up"
+    },
+    {
+      "type": "transporter",
+      "direction": "up"
+    },
+    {
+      "type": "transporter",
+      "direction": "up"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "transporter",
+      "direction": "down"
+    },
+    {
+      "type": "transporter",
+      "direction": "down"
+    },
+    {
+      "type": "transporter",
+      "direction": "down"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "obstacle",
+      "directions": [
+        "left",
+        "down"
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "laser",
+      "direction": "down"
+    },
+    {
+      "type": "obstacle",
+      "directions": [
+        "left",
+        "right"
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": true
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "laser",
+      "direction": "up"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": true
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": true
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "transporter",
+      "direction": "left"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "laser",
+      "direction": "left"
+    },
+    {
+      "type": "laser",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "transporter",
+      "direction": "right"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "obstacle",
+      "directions": [
+        "right",
+        "up",
+        "down"
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "transporter",
+      "direction": "up"
+    },
+    {
+      "type": "transporter",
+      "direction": "up"
+    },
+    {
+      "type": "transporter",
+      "direction": "up"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "transporter",
+      "direction": "down"
+    },
+    {
+      "type": "transporter",
+      "direction": "down"
+    },
+    {
+      "type": "transporter",
+      "direction": "down"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "obstacle",
+      "directions": [
+        "left"
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "laser",
+      "direction": "down"
+    },
+    {
+      "type": "obstacle",
+      "directions": [
+        "right"
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": true
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "laser",
+      "direction": "up"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "turner",
+      "CW": true
+    },
+    {
+      "type": "turner",
+      "CW": false
+    },
+    {
+      "type": "empty"
+    }
+  ]
+}
